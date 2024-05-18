@@ -36,5 +36,5 @@ Courses, activities, or other details
 ## HOBBIES
 - Football
 - Basketball
-- jogging on saturday
+- jogging on saturday.
 
