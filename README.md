@@ -1,8 +1,8 @@
 # Your Name
-Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
+_Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)_
 
 ## Summary
-1-2 sentences summarizing your professional experience and expertise
+_1-2 sentences summarizing your professional experience and expertise_
 
 ## Skills
 - Programming Languages: Python, JavaScript, etc 
@@ -12,17 +12,17 @@ Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.g
 
 ## Experience
 **Company Name** (Dates)   
-Job Title
+_Job Title_
 - Accomplishment 1
 - Accomplishment 2  
 
 **Company Name** (Dates)
-Job Title
+_Job Title_
 - Accomplishment 1
 - Accomplishment 2
 
 ## Projects
-**Project 1** (link to project site or GitHub repo)  
+**Project 1** (link to project site or GitHub repo) 
 - Description of tech used and what the project involved/accomplished
 - Accomplishment 
 
